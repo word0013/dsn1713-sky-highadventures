@@ -1,22 +1,22 @@
-.btn {
-    background-color: #243748;
-    color: #90A6A3;
-}
 
 .navbar {
     padding: 0;
     background-color: #243748;
 }
 .container-fluid {
-    background-color: #3C5B77;
+    background-color: #005095;
     padding: 1em 0 1em 1em;
 }
 
 .nav-link {
-    color: #90A6A3; 
+    color: #fff; 
 }
 
 .navbar-toggler {
     border: none;
     outline: none;
+}
+
+.btn {
+    background-color: #FFAB4B;
 }
