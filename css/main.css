@@ -3,9 +3,13 @@
     padding: 0;
     background-color: #243748;
 }
-.container-fluid {
+.nav-container {
     background-color: #005095;
     padding: 1em 0 1em 1em;
+}
+
+.hero-container {
+    background-color: #CAE5F0;
 }
 
 .nav-link {
@@ -17,6 +21,26 @@
     outline: none;
 }
 
-.btn {
+.book-btn {
     background-color: #FFAB4B;
+    color: #243748;
 }
+
+.hero-btn {
+    background-color: #FFAB4B;
+    color: #fff;
+    margin-bottom: 1em;
+}
+
+.hero-img {
+    margin-top: 2em;
+    margin-bottom: 2em;
+    border-radius: 13px;
+}
+
+.hero-text {
+    padding: 0 1em;
+    color: #243748;
+}
+
+
